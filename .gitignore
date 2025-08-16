@@ -1,0 +1,25 @@
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+*.mp4
+*.MOV
+*.avi
+*.mkv
